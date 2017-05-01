@@ -2,7 +2,7 @@
 Cinema 4D (Python) plugin to export name, position and rotation of all children objects of a selected object
 
 ## Get Started
-To use the script you just need to download it from the github page and open the script *children-to-jso*n.py* with Cinema 4D Script manager
+To use the script you just need to download it from the github page and open the script **children-to-json.py** with Cinema 4D Script manager
 ![](https://github.com/lucascassiano/cinema4d-children-to-json/raw/master/docs/how-to-use.gif)
 ## Json Structure 
   {
